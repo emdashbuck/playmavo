@@ -1,4 +1,9 @@
 {
 	"imgSplash": "\n",
-	"title": "Hello Mavo"
+	"title": "Hello Mavo",
+	"intro": {
+		"title": "Hello Mavo",
+		"featureImg": "/img/golden-ratio.jpg",
+		"text": "<p>How does Mavo handle multiple paragraphs?</p><p>Are they considered part of the same element and can be edited together?</p><p>HELLO MAVO</p><p>Or do we have three separate pieces here?</p>"
+	}
 }
