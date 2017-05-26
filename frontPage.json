@@ -4,6 +4,6 @@
 	"intro": {
 		"title": "Hello Mavo",
 		"featureImg": "/img/golden-ratio.jpg",
-		"text": "<p>How does Mavo handle multiple paragraphs?</p><p>Are they considered part of the same element and can be edited together?<br></p><p>Or do we have three separate pieces here?</p><p>Can has tinymce? Hello? No?<br data-mce-bogus=\"1\"></p>"
+		"text": "<p>How does Mavo handle multiple paragraphs?</p><p>Are they considered part of the same element and can be edited together?<br></p><p>Or do we have three separate pieces here?</p><p>Can has tinymce? Hello? No?<br><br data-mce-bogus=\"1\"></p><p>How about now? No? Oh no sads.</p>"
 	}
 }
