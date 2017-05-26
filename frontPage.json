@@ -4,6 +4,6 @@
 	"intro": {
 		"title": "Hello Mavo",
 		"featureImg": "/img/golden-ratio.jpg",
-		"text": "<p>HEllo?How does Mavo handle multiple paragraphs?</p><p>Are they considered part of the same element and can be edited together?<br></p><p>Or do we have three separate pieces here?</p><p>Can has tinymce? Hello? No?<br></p><p>hello?</p><p>How about now? No? Oh no sads.</p>"
+		"text": "<p>asdfasdfasdfasdfasdfasdfasdfasdfasdHEllo?How does Mavo handle multiple paragraphs?</p><p>Are they considered part of the same sdfelement and can be edited together?<br></p><p>Or do we have three separate pieces here?asdfasdf</p><p>Can has tinymce? Hello? No?<br></p><p>hello?</p><p>How about now? No? Oh no sads.</p>"
 	}
 }
